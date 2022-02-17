@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TIENDA ONLINE</title>
+        <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    </head>
+    <body>
+        <div class="Titulo">
+        <i><h1> ♥ ROPA BELV ♥ </h1></i>
+    </div>        <hr>
+    <br>
+    
+    <p class="encabezado">
+        En esta tienda encontrarás diferentes tipos de outfits que de seguro te gustarán mucho. <br>
+        Aquí te dejamos un enlace para que puedas ver más opciones de outfits.
+    <a href="https://www.pinterest.com/belv80332/ropa/">Más ropa</a>
+    </p>
+    
+    <table class="outfits"align="center">
+        <tr>
+
+            <td class="celdas"><img src="IMG/casual0.jpg" height="350px" width="230px"></td> 
+        
+            <td class="celdas"><img src="IMG/elegante0.jpg" height="354px" width="230px"></td> 
+        
+            <td class="celdas"><img src="img/vestido0.jpg" height="355px" width="230px"></td>
+        
+          </tr>
+                  
+          <tr align="center">
+            
+            <td>OUTFIT CASUAL</td>
+        
+            <td>OUTFIT ELEGANTE</td>
+        
+            <td>VESTIDOS</td>
+        
+          </tr>
+    </table>
+ <br>
+ <br>
+ <br>
+            <b><h2 class="h2">PRENDAS DE OUTFITS CASUALES</h2></b>
+
+        <table class="tabla1">
+            <tr>
+
+                <td class="celdas"><img src="IMG/casual1.jpg" height="230px" width="180px"></td>
+            
+                <td class="celdas"><img src="IMG/casual2.png" height="230px" width="180px"></td>
+            
+                <td class="celdas"><img src="IMG/casual3.jpg" height="230px" width="180px"></td>
+
+                <td class="celdas"><img src="IMG/casual4.jpg" height="230px" width="180px"></td>
+            
+              </tr>
+
+              <tr align="center">
+
+                <td>CONJUNTO 1: Q200</td>
+            
+                <td>CONJUNTO 2: Q250</td>
+            
+                <td>CONJUNTO 3: Q300</td>
+
+                <td>CONJUNTO 4: Q400</td>
+            
+              </tr>
+            </table>
+                         
+            <br>
+            <br>
+                <b><h2 class="h2">PRENDAS DE OUTFITS ELEGANTES</h2></b>       
+                   <table class="tabla2">
+                     <tr>
+
+        <td class="celdas"><img src="IMG/elegante1.jpg" height="230px" width="190px"></td>
+    
+        <td class="celdas"><img src="IMG/elegante2.jpg" height="230px" width="190px"></td>
+    
+        <td class="celdas"><img src="IMG/elegante3.jpg" height="230px" width="190px"></td>
+
+        <td class="celdas"><img src="IMG/elegante4.jpg" height="230px" width="190px"></td>
+    
+      </tr>
+
+      <tr align="center">
+
+        <td>CONJUNTO 1: Q500</td>
+    
+        <td>CONJUNTO 2: Q650</td>
+    
+        <td>CONJUNTO 3: Q720</td>
+
+        <td>CONJUNTO 4: Q630</td>
+    
+      </tr>
+    </table>
+    <br>
+    <br>
+            
+    <b><h2 class="h2">VESTIDOS</h2></b>       
+                   <table class="tabla2">
+                     <tr>
+
+        <td class="celdas"><img src="IMG/vestido1.jpg" height="230px" width="190px"></td>
+    
+        <td class="celdas"><img src="IMG/vestido2.jpg" height="230px" width="190px"></td>
+    
+        <td class="celdas"><img src="IMG/vestido3.jpg" height="230px" width="190px"></td>
+
+        <td class="celdas"><img src="IMG/vestido4.jpg" height="230px" width="190px"></td>
+    
+      </tr>
+
+      <tr align="center">
+
+        <td>CONJUNTO 1: Q800</td>
+    
+        <td>CONJUNTO 2: Q750</td>
+    
+        <td>CONJUNTO 3: Q950</td>
+
+        <td>CONJUNTO 4: Q860</td>
+    
+      </tr>
+    </table>
+          <br>
+          <br>
+          <br>
+          <br>
+          <hr>                
+        <i><h3 class="h3">♥ BRENDA LOPEZ- 2022 ♥</h3></i>         
+                  
+
+    </body>
+</html>
